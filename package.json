@@ -1,0 +1,28 @@
+{
+  "name": "appbackend",
+  "version": "1.0.0",
+  "description": "a backend using node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naaman233/AppBackend.git"
+  },
+  "keywords": [
+    "express",
+    "and",
+    "node.js"
+  ],
+  "author": "Makafui Naaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naaman233/AppBackend/issues"
+  },
+  "homepage": "https://github.com/Naaman233/AppBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
