@@ -10,6 +10,6 @@ Acceptance Criteria
 3. an endpoint for marking a todo as complete
 4. an endpoint for displaying all todos. 
 
-sam@eggseed.com
+
 
 Commit your code
